@@ -12,7 +12,7 @@ I specialize in modern, scalable full stack development — from intuitive front
 - 🔨 Tech Stack: React.js, Next.js, Vue.js, Tailwind, Node.js, Express, Nest.js, Python, Django, Flask
 - 🔗 Blockchain: Web3.js, Ethers.js, Solidity, Merkle Proofs, Gas Optimization, MEV Protection
 - ⚙️ DevOps: Docker, CI/CD, AWS, Vercel, Firebase, PostgreSQL, MongoDB
-- 🛠 Tools: Git, GitHub Actions, Postman, Figma, Notion
+- 🛠 Tools: Git, GitHub Actions, Postman, Figma
 
 ---
 
