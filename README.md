@@ -36,7 +36,6 @@ I specialize in modern, scalable full stack development — from intuitive front
 
 ## 📬 Let's Connect
 
-- Portfolio: [behance.net/ukroficer](https://www.behance.net/ukroficer)
 - LinkedIn: [https://www.linkedin.com/in/ivan-milyutichev](https://www.linkedin.com/in/ivan-milyutichev)
 - Email: `ivanmiluticev@gmail.com`  
 - Availability: 🌍 Global (US, EU, SG timezones)
