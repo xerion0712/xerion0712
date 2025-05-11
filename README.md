@@ -34,14 +34,6 @@ I specialize in modern, scalable full stack development — from intuitive front
 
 ---
 
-## 📬 Let's Connect
-
-- LinkedIn: [https://www.linkedin.com/in/ivan-milyutichev](https://www.linkedin.com/in/ivan-milyutichev)
-- Email: `ivanmiluticev@gmail.com`  
-- Availability: 🌍 Global (US, EU, SG timezones)
-
----
-
 > “Let’s talk about your ideas and turn them into reality!”  
 > 📨 DM me or open an issue on any repo to start the conversation.
 
