@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ivan Milyutichev – Full Stack Developer
+# 👋 Hello, 
 
 🚀 Top Rated | 💻 12+ Years Experience | 🌍 Based in Ukraine  
 🔗 Building seamless web platforms, secure smart contracts, and user-first digital experiences.
