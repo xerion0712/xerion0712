@@ -1,6 +1,6 @@
 # 👋 Hello, 
 
-🚀 Top Rated | 💻 12+ Years Experience | 🌍 Based in Ukraine  
+🚀 Top Rated | 💻 9+ Years Experience | 🌍 Based in Ukraine  
 🔗 Building seamless web platforms, secure smart contracts, and user-first digital experiences.
 
 ---
