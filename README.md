@@ -1,6 +1,6 @@
 # 👋 Hello, 
 
-🚀 Top Rated | 💻 9+ Years Experience | 🌍 Based in Ukraine  
+🚀 Top Rated | 💻 9+ Years Experience 
 🔗 Building seamless web platforms, secure smart contracts, and user-first digital experiences.
 
 ---
@@ -20,7 +20,7 @@ I specialize in modern, scalable full stack development — from intuitive front
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| [Swox](https://github.com/ivan-0224/swox) | React, Web3, Blast Blockchain | Decentralized social network prioritizing privacy and user data ownership |
+| [Swox](https://github.com/xerion0712/swox) | React, Web3, Blast Blockchain | Decentralized social network prioritizing privacy and user data ownership |
 | [OpenCart Export Tool](#) | PHP, Excel, OpenCart | Export digital products directly to trial websites and Excel sheets |
 | [Ethereum Bridge (Open Source)](#) | Solidity, Merkle Trees | Cross-chain bridge using miner-validated Merkle proofs, no multisig required |
 
