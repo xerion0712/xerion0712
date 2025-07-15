@@ -1,6 +1,6 @@
 # 👋 Hello, 
 
-🚀 Top Rated | 💻 9+ Years Experience 
+🚀 Top Rated | 💻 15+ Years Experience 
 🔗 Building seamless web platforms, secure smart contracts, and user-first digital experiences.
 
 ---
