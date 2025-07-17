@@ -16,24 +16,6 @@ I specialize in modern, scalable full stack development — from intuitive front
 
 ---
 
-## 💼 Work Highlights
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-| [Swox](https://github.com/xerion0712/swox) | React, Web3, Blast Blockchain | Decentralized social network prioritizing privacy and user data ownership |
-| [OpenCart Export Tool](#) | PHP, Excel, OpenCart | Export digital products directly to trial websites and Excel sheets |
-| [Ethereum Bridge (Open Source)](#) | Solidity, Merkle Trees | Cross-chain bridge using miner-validated Merkle proofs, no multisig required |
-
----
-
-## 🧩 Featured Projects
-
-- 🏦 **DeFi Platform:** On-chain yield farming, staking dashboard, and multi-wallet support  
-- 🧠 **AI/LLM Chatbot:** Integrated OpenAI API with fine-tuned prompts and vector DB  
-- 🛒 **E-Commerce Sites:** Shopify, Magento, and custom-built stores with secure checkout
-
----
-
 > “Let’s talk about your ideas and turn them into reality!”  
 > 📨 DM me or open an issue on any repo to start the conversation.
 
