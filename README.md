@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I specialize in modern, scalable full stack development — from intuitive frontend UIs to robust backend APIs. Whether you're a startup or an enterprise, I bring clean architecture, speed, and reliability to every project.
+I build modern, scalable full stack applications, from intuitive frontend interfaces to robust backend systems. Whether you're a startup or an established enterprise, I deliver clean architecture, fast performance, and reliable solutions for every project.
 
 - 🔨 Tech Stack: React.js, Next.js, Vue.js, Tailwind, Node.js, Express, Nest.js, Python, Django, Flask
 - 🔗 Blockchain: Web3.js, Ethers.js, Solidity, Merkle Proofs, Gas Optimization, MEV Protection
@@ -16,6 +16,6 @@ I specialize in modern, scalable full stack development — from intuitive front
 
 ---
 
-> “Let’s talk about your ideas and turn them into reality!”  
+> “Let's talk about your ideas and turn them into reality!”  
 > 📨 DM me or open an issue on any repo to start the conversation.
 
