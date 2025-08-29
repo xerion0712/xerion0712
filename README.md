@@ -24,7 +24,7 @@ module Soul::Craft {
          for giants seeking to evolve,  
          I build with precision,  
          I build with care,  
-         I build for tomorrow."  [Xerion](https://github.com/xerion0712);
+         I build for tomorrow."  ;
 }
 ```
 
